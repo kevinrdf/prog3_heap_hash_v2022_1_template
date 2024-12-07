@@ -7,4 +7,6 @@
 template <typename Container1,typename Container2>
 bool have_same_elements(const Container1& contenedor1,const Container2& contenedor2);
 
+#include "P5.cpp"
+
 #endif //PROG3_HEAP_HASH_V2022_1_P5_H
